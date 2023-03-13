@@ -1,0 +1,12 @@
+{
+    "name": "RNSDK",
+    "version": "1.0.0",
+    "description": "Description of RNSDK",
+    "author": "John Vu",
+    "homepage": "https://github.com/mocmoc05/rnsdk-ios",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:mocmoc05/rnsdk-ios.git"
+    }
+  }
